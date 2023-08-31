@@ -14,4 +14,6 @@
 
  <img height="150" alt="gif-github" src="https://media.discordapp.net/attachments/815477179697201195/1146556319785029642/gif_github.gif?width=468&height=468">
 
+ ![Snake animation](https://github.com/iambelaandrade/iambelandrade/blob/output/github-contribution-grid-snake.svg)
+
 
